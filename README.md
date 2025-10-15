@@ -11,6 +11,7 @@ The hackathon is divided into three independent modalities, each focusing on a f
 1. **Path Planning** - Navigate through cone-marked tracks
 2. **State Estimation** - Track obstacles using sensor fusion
 3. **Perception** - Classify images with high accuracy
+4. **Static Event** - Presentation of your work
 
 Teams can participate in one or all modalities. Each challenge is designed to test different skills while contributing to the overall goal of building robust autonomous racing systems.
 
@@ -99,6 +100,19 @@ Fine-tune a MobileNetV2 pretrained model on the CIFAR-100 dataset (60,000 32x32 
 - **Base Model**: MobileNetV2 (TensorFlow/Keras)
 - **Dataset**: CIFAR-100
 - **Target**: Highest accuracy with minimal complexity
+
+---
+
+## Modality 4: Static Event
+
+### Challenge
+Present your work to the jury and the rest of the team. Being as technical as possible and giving as many details as possible of your demarche.
+
+### Key Objectives
+- **Clear Communication** - Communicate complex concepts using appropriate technical vocabulary
+- **Work showcasing** - Justify your development choices with numbers or at least comparing with different possible choices
+- **Time matching** - Presentations must be exactly 10 minutes. Going under 9 or over 11 minutes will result in penalties.
+At the end of the presentation, a quick 5-10min Q&A round will be conducted by the jury.
 
 ## Getting Started
 
