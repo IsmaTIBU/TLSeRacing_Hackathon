@@ -1,4 +1,4 @@
-# 🏎️ TLSRacing Hackathon – Path Planning
+# TLSRacing Hackathon – Path Planning
 
 **Goal:**  
 Develop a simple, fast, and reliable path-planning module for a driverless Formula Student car.  
@@ -6,7 +6,7 @@ This problem represents roughly enough to challenge your logic, creativity, and 
 
 ---
 
-## 🧩 Challenge Overview
+## Challenge Overview
 Your task is to compute a smooth and feasible driving path from cone detections.
 
 For the hackathon setup:
@@ -16,7 +16,7 @@ For the hackathon setup:
 
 ---
 
-## ⚙️ Project Structure
+## Project Structure
 **Main entry points:**
 - `fsd_path_planning/full_pipeline/full_pipeline.py` – high-level pipeline orchestrator.  
 - `fsd_path_planning/config.py` – mission configuration and class selection.  
