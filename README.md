@@ -1,10 +1,10 @@
-# 🏁 TLSRacing Hackathon - Autonomous Racing Challenge
+# TLSRacing Hackathon - Autonomous Racing Challenge
 
 Welcome to the TLSRacing Hackathon! This competition challenges teams to develop solutions for three critical components of autonomous racing systems: Path Planning, State Estimation, and Perception.
 
 ---
 
-## 🎯 Overview
+## Overview
 
 The hackathon is divided into three independent modalities, each focusing on a fundamental aspect of autonomous racing:
 
@@ -16,7 +16,7 @@ Teams can participate in one or all modalities. Each challenge is designed to te
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 TLSRacing_Hackathon/
@@ -42,15 +42,15 @@ TLSRacing_Hackathon/
 
 ---
 
-## 🏎️ Modality 1: Path Planning
+## Modality 1: Path Planning
 
 ### Challenge
 Develop a fast and reliable path-planning module for a driverless Formula Student car that computes smooth driving paths from cone detections.
 
 ### Key Objectives
-- ⏱️ **Improve computing time** - Optimize algorithm efficiency
-- 🧮 **Algorithm complexity** - Balance sophistication with performance
-- 🛣️ **Driving viability** - Ensure smooth lines and stable cornering
+- **Improve computing time** - Optimize algorithm efficiency
+- **Algorithm complexity** - Balance sophistication with performance
+- **Driving viability** - Ensure smooth lines and stable cornering
 
 ### Quick Start
 ```bash
@@ -63,15 +63,15 @@ A "dumb" planner is provided that only drives straight. Your task is to replace 
 
 ---
 
-## 📡 Modality 2: State Estimation
+## Modality 2: State Estimation
 
 ### Challenge
 Implement a Kalman filter to improve noisy sensor measurements and accurately estimate obstacle positions while a robot moves in a circular trajectory.
 
 ### Key Objectives
-- 🎯 **Understanding** - Grasp Kalman filter principles
-- 💪 **Robustness** - Develop a sturdy implementation
-- 📊 **Analysis** - Compare performance between 1 and 3 laps
+- **Understanding** - Grasp Kalman filter principles
+- **Robustness** - Develop a sturdy implementation
+- **Analysis** - Compare performance between 1 and 3 laps
 
 ### Dataset Overview
 - **robot_positions.txt**: Ground truth robot positions (x, y)
@@ -85,45 +85,22 @@ Implement a Kalman filter to improve noisy sensor measurements and accurately es
 
 ---
 
-## 🖼️ Modality 3: Perception
+## Modality 3: Perception
 
 ### Challenge
 Fine-tune a MobileNetV2 pretrained model on the CIFAR-100 dataset (60,000 32x32 RGB images, 100 classes).
 
 ### Key Objectives
-- 🎯 **Accuracy** - Achieve >90% mean accuracy on 1000 test examples
-- 🏗️ **Simplicity** - Build minimal CNN architecture
-- ⚖️ **Efficiency** - Add as few parameters as possible
+- **Accuracy** - Achieve >90% mean accuracy on 1000 test examples
+- **Simplicity** - Build minimal CNN architecture
+- **Efficiency** - Add as few parameters as possible
 
 ### Technical Requirements
 - **Base Model**: MobileNetV2 (TensorFlow/Keras)
 - **Dataset**: CIFAR-100
 - **Target**: Highest accuracy with minimal complexity
 
----
-
-## 🏆 Evaluation Criteria
-
-Each modality will be evaluated based on:
-
-### Path Planning
-1. Execution speed
-2. Path smoothness and feasibility
-3. Robustness to different track layouts
-
-### State Estimation
-1. Estimation accuracy vs ground truth
-2. Filter stability and convergence
-3. Computational efficiency
-
-### Perception
-1. Classification accuracy (primary metric)
-2. Model size and complexity
-3. Inference speed
-
----
-
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -142,30 +119,8 @@ Each modality will be evaluated based on:
 4. **Start developing!**
    Focus on correctness first, then optimize for performance
 
----
-
-## 📋 Submission Guidelines
-
-- Each modality should be submitted as a separate solution
-- Include documentation explaining your approach
-- Provide clear instructions for running your code
-- Ensure all dependencies are listed
-
----
-
-## 🤝 Support
+## Support
 
 For questions or clarifications:
 - Check individual modality READMEs
 - Contact hackathon organizers
-- Join the discussion forum
-
----
-
-## 🎉 Good Luck!
-
-Remember: Focus on **correctness and robustness first**, then optimize for performance. May the best algorithms win!
-
----
-
-*TLSRacing Hackathon - Where Speed Meets Intelligence* 🏁
