@@ -79,11 +79,6 @@ Implement a Kalman filter to improve noisy sensor measurements and accurately es
 - **distances_noisy.txt**: Noisy relative distances to obstacles (up to 5 detections)
 - **real_obstacles.txt**: True positions of 5 static obstacles
 
-### Performance Metrics
-| Metric | One Lap | Three Laps |
-|--------|---------|------------|
-| Total Detections | 152 | 453 |
-
 ---
 
 ## Modality 3: Perception
