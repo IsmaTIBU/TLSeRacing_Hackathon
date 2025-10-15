@@ -114,6 +114,8 @@ Present your work to the jury and the rest of the team. Being as technical as po
 - **Time matching** - Presentations must be exactly 10 minutes. Going under 9 or over 11 minutes will result in penalties.
 At the end of the presentation, a quick 5-10min Q&A round will be conducted by the jury.
 
+---
+
 ## Getting Started
 
 1. **Clone the repository**
