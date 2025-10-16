@@ -12,7 +12,7 @@ Present your hackathon solutions to a panel of judges and fellow participants, d
 
 ---
 
-## Key Objectives
+## Objectives
 
 ### 1. **Clear Communication** 
 Communicate complex concepts using appropriate technical vocabulary while ensuring accessibility
