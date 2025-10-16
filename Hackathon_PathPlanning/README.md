@@ -8,8 +8,6 @@ This problem represents roughly enough to challenge your logic, creativity, and 
   <img src="path_planning.gif" width="500">
 </p>
 
----
-
 ## Challenge Overview
 Your task is to compute a smooth and feasible driving path from cone detections.
 
