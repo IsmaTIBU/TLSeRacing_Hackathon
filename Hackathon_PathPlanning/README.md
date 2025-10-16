@@ -8,6 +8,9 @@ This problem represents roughly enough to challenge your logic, creativity, and 
   <img src="path_planning.gif" width="500">
 </p>
 
+> [!Warning]
+> The simulation of the car will ALWAYS move. Your goal is not to make the car move thanks to your program. Your goal is to define how and how quick the red line that (in theory) defines the car trajectory is going to explore the map and its possibilities.
+
 ## Challenge Overview
 Your task is to compute a smooth and feasible driving path from cone detections.
 
