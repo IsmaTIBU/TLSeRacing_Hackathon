@@ -3,7 +3,12 @@
 ## Project Overview
 This project simulates a robot moving in a circular trajectory while detecting static obstacles using a sensor. The Kalman filter is applied to improve the noisy sensor measurements and estimate the true positions of the obstacles.
 
-![Simulation](Estimation.gif)  
+<p align="center">
+  <img src="Estimation.gif" width="700">
+</p>
+
+> [!Warning]  
+> We DON'T want you to re-do the simulation of the robot detecting the obstacles. What we only want you to do is to develop a Kalman Filter, so to pick the data from the files "One lap" and "Three laps" and use it to estimate the positions of the obstacles.
 
 ## Files Description
 
