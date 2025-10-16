@@ -4,6 +4,8 @@
 Develop a simple, fast, and reliable path-planning module for a driverless Formula Student car.  
 This problem represents roughly enough to challenge your logic, creativity, and efficiency.
 
+![Path Planning](path_planning.gif)
+
 ---
 
 ## Challenge Overview
