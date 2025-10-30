@@ -6,7 +6,7 @@
 Present your hackathon solutions to a panel of judges and fellow participants, demonstrating both your technical expertise and communication abilities. This is not just about what you built, but how well you can explain it.
 
 ### Format
-- **Presentation Duration**: Exactly 10 minutes
+- **Presentation Duration**: Exactly 15 minutes
 - **Q&A Session**: 5-10 minutes following the presentation
 - **Audience**: Technical jury and other participating teams
 
@@ -24,8 +24,8 @@ Justify your development choices with:
 - Trade-off discussions
 
 ### 3. **Time Management** 
-- Target: 10 minutes exactly
-- Penalty zone: <9 or >11 minutes
+- Target: 15 minutes exactly
+- Penalty zone: <14 or >16 minutes
 - Practice is essential!
 
 ---
