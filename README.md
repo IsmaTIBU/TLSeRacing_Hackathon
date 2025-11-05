@@ -106,7 +106,7 @@ Present your work to the jury and the rest of the team. Being as technical as po
 ### Key Objectives
 - **Clear Communication** - Communicate complex concepts using appropriate technical vocabulary
 - **Work showcasing** - Justify your development choices with numbers or at least comparing with different possible choices
-- **Time matching** - Presentations must be exactly 10 minutes. Going under 9 or over 11 minutes will result in penalties.
+- **Time matching** - Presentations must be exactly 15 minutes. Going under 14 or over 16 minutes will result in penalties.
 At the end of the presentation, a quick 5-10min Q&A round will be conducted by the jury.
 
 ---
