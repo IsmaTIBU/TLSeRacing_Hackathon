@@ -87,7 +87,7 @@ Implement a Kalman filter to improve noisy sensor measurements and accurately es
 Fine-tune a MobileNetV2 pretrained model on the CIFAR-100 dataset (60,000 32x32 RGB images, 100 classes).
 
 ### Key Objectives
-- **Accuracy** - Achieve >90% mean accuracy on 1000 test examples
+- **Accuracy** - Achieve >85% mean accuracy on 1000 test examples
 - **Simplicity** - Build minimal CNN architecture
 - **Efficiency** - Add as few parameters as possible
 
